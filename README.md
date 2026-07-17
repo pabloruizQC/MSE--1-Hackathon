@@ -1,3 +1,5 @@
+> **📌 This work is now part of my complete course portfolio: [MSE-510-Spring-2026](https://github.com/pabloruizQC/MSE-510-Spring-2026)** — all homework, hackathons, exams, and lecture references for MSE 510, organized in one place.
+
 # MSE--1-Hackathon
 Inaugural scientific hackathon portfolio: Advanced numerical analysis of nonlinear physical systems and energy landscape reconstruction. Features robust solver benchmarking, stability analysis, and integration-based surface recovery."
 
